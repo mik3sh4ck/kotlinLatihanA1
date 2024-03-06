@@ -2,19 +2,7 @@
 Michael Agustinus - c14180145
 
 ## Soal 1
-'''
-/**
- * You can edit, run, and share this code.
- * play.kotlinlang.org
- */
-
-// soal 1
-// contoh1 n3 m2 s="a"
-// AC*GH
-// HAC*G
-// GHAC*
-// *GHAC
-// C*GHA
+'''python
 fun main() {
     
     var n = 3
