@@ -2,7 +2,7 @@
 Michael Agustinus - c14180145
 
 ## Soal 1
-'''python
+```python
 fun main() {
     
     var n = 3
@@ -41,11 +41,11 @@ fun main() {
     
   
 }
-'''
+```
 
 ## Soal 2
 
-'''
+```
 fun main() {
     val text = readLine()
     
@@ -53,4 +53,4 @@ fun main() {
     val counted = count.split(" ").size
     println("jumlah kata: $counted")
 }
-'''
+```
